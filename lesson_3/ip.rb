@@ -6,9 +6,6 @@ def dot_separated_ip_address?(input_string)
   return true
 end
 
-dot_separated_ip_address?('1.1.1.1')
-dot_separated_ip_address?('1.1.1')
-dot_separated_ip_address?('400.1.1.1')
 # Problems: 
 # not returning false condition
 # not handling the case that there are more or fewer than 4 components to the
