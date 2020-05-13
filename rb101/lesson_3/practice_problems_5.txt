@@ -1,0 +1,8 @@
+1. (WRONG)error greeting not initialized
+  greeting is set to nil. If a variable is initialized inside an if/else
+  statement but on the branch that it isn't executed, it is still initialized.
+2. {a => 'hi there'}
+3. A) one is one...two is two...three is three...
+   B) same as A)
+   C) one is two...two is three...three is one...
+4. see ip.rb

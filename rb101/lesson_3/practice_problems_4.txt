@@ -1,0 +1,9 @@
+1. see id.rb
+2. see id.rb
+3. my_string = pumpkins , my_array = pumpkins, rutabaga
+   << modifies the caller while += doesn't 
+   only destructive operations work in methods
+4. same as above
+5. a_string_param << "rutabaga"
+   change method name to 'modify_string_and_array'
+6. color == "blue" || color == "green"
